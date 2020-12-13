@@ -1,2 +1,2 @@
 # terraform-101
-for education
+This repository is for education.
